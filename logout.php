@@ -2,3 +2,5 @@
     session_destroy();
     header("location:login.php?signout=sukses"); 
 ?>
+
+kurang php
