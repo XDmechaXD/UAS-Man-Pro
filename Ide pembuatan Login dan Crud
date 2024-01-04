@@ -12,3 +12,6 @@ setelah itu isi dari folder proses yaitu:
 -membuat file koneksi.php
 -membuat file panggil.php
 -membuat file prosescrud.php
+
+anggota 1 membuat file edit.php, index.php, login.php, logout.php, tambah.php
+anggota 2 membuat file crud.php, koneksi.php, panggil.php, presescrud.php dan juga database mysql
