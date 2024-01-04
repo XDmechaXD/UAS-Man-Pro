@@ -1,0 +1,14 @@
+pertama pembuatan database menggunakn php my admin
+ke dua membuat folder php login dan crud
+isi volder ada lah sebagai berikut:
+-membuat folder proses
+-membuat file edit.php
+-membuat file index.php
+-membuat file login.php
+-membuat file logout.php
+-membuat file tambah.php
+setelah itu isi dari folder proses yaitu:
+-membuat file crud.php
+-membuat file koneksi.php
+-membuat file panggil.php
+-membuat file prosescrud.php
