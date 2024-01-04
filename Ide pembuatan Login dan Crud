@@ -14,6 +14,4 @@ setelah itu isi dari folder proses yaitu:
 -membuat file prosescrud.php
 
 anggota 1 membuat file edit.php, index.php, login.php, logout.php, tambah.php(michael) done bisa di cek anggota 2
-anggota 2 membuat file crud.php, koneksi.php, panggil.php, presescrud.php dan juga database mysql(christian) done bisa di cross check anggota 1
-
-udah ga ada yang salah lagi yaa aku pindahin ke branch file
+anggota 2 membuat file crud.php, koneksi.php, panggil.php, presescrud.php dan juga database mysql(christian) 
